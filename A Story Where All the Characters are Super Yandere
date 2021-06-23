@@ -1,0 +1,42 @@
+{
+  "title": "A Story Where All the Characters are Super Yandere",
+  "description": "see title",
+  "artist": "Nekoashifumare",
+  "author": "https://twitter.com/nekoashifumare",
+  "cover": "https://i.pximg.net/c/782x410_80_a2_g5/illust-series-cover-original/img/2020/07/11/09/48/04/lvbkECsIWeJNhhs5dA5InB8XH9YyQ9bp.jpg",
+  "chapters": {
+    "1": {
+      "title": "It's Mutual",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/RYNvqCM/"
+      },
+      "last_updated": "1623038597"
+    },
+     "2": {
+      "title": "The Desire to Monopolize",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/DC9C4JV/"
+      },
+      "last_updated": "1623124997"
+    },
+     "3": {
+      "title": "The Thing I Wanted the Most",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/Bj1zhQN/"
+      },
+      "last_updated": "1623297797"   
+    },
+     "4": {
+      "title": "Lock On",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/XbcXNXe/"
+      },
+      "last_updated": "1623643397"
+    
+    }
+  }
+}
